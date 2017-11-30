@@ -5,6 +5,7 @@ import android.content.SharedPreferences;
 
 /**
  * SharedPreferences工具类
+ * 轻量级的存储，用来保存应用App的一些常用配置
  */
 public class SpUtils {
 
